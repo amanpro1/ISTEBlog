@@ -1,0 +1,8 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "CharterBT-Italic";
+
+  src: url("./fonts/CharterItalicBT.woff") format("woff"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
